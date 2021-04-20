@@ -3,6 +3,3 @@
 
 # Ignore pycache files
 __pycache__
-
-# Ignore virtual environment
-/Users/alt-browne/tic_tac_toe/env/
