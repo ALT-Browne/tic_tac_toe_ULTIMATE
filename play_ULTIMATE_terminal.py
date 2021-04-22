@@ -27,12 +27,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# Could figure out if it is a draw before all the subgrids are full and end the game straight away, rather than wasting time letting players do pointless moves...
-
-# add option to delete previous move...must be previous one though otherwise the order will be messed up.
-
-# optimise the has player won and is game won functions by ignoring a condition if one of its indices has been checked and failed....
-
-# maybe just make a copy of the winning conditions list and then check each index in the grid once and, along the way, delete the winning conditions containing any index that fails. if there are any conditions remaining at the end then the player has won!
