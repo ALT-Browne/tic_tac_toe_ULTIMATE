@@ -10,7 +10,7 @@ class tic_tac_toe_BASIC:
         """
         Get the grid variable representing the current state of play.
 
-        Return: list of ints.
+        Return: list of strings.
         """
         return self.grid
 
